@@ -17,7 +17,7 @@
 - ## 🧰 Tecnologías utilizadas
 
 - ASP.NET MVC (.NET Framework)
-- C#
+- C# (visual studio)
 - SQL Server
 
 - ## 🚀 Instalación y ejecución local
